@@ -1,0 +1,13 @@
+requests==2.26.0
+
+To run the scraper locally:
+
+Clone or download the repository.
+
+Set up your Python environment (you can use venv or conda).
+
+Install dependencies by running pip install -r requirements.txt.
+
+Run the runner.py file to start the scraper.
+
+Let me know if you need further guidance!
