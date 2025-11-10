@@ -1,0 +1,5 @@
+{
+  "mode": "local_sample",
+  "sample_data_path": "data/sample.json",
+  "log_level": "INFO"
+}
