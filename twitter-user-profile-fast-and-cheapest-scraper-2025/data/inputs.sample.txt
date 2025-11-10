@@ -1,0 +1,6 @@
+# Example input file for Twitter User Profile Fast & Cheapest Scraper 2025
+# You can mix bare usernames and full profile URLs.
+# Lines beginning with "#" are treated as comments and ignored.
+
+WEPEToken
+https://x.com/sampleuser
