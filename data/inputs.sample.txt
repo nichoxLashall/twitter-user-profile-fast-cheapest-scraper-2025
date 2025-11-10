@@ -1,0 +1,5 @@
+# Sample input file containing a list of Twitter usernames
+# Add usernames, one per line
+WEPEToken
+elonmusk
+jack
